@@ -10,6 +10,7 @@ Building a bitcoin HD wallet using Golang.
 ## Project Description
 
 Building a bitcoin HD wallet using Golang.
+You can follow along the tutorial using this [link](https://medium.com/@theedtron/building-a-bitcoin-hd-wallet-in-go-4c379ae9c1d3)
 
 
 ## Installation
